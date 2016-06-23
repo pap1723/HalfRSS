@@ -1,15 +1,21 @@
 # HalfRSS
-Half Sized RSS (5x Kerbin scale)
+Half Sized RSS (5x Kerbin scale, 1/2 Real Solar System Scale)
 
 Pap1723
+
 Github: https://github.com/pap1723/HalfRSS
+
 This mod will convert the Kerbol System into our Real Solar System, but at half of the actual size. This makes it 5 times larger than KSP stock sizes.
 
 License: CC-BY-NC-SA (http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+
 Includes code and artwork from RealSolarSystem by NathanKell
+
 Includes artwork by dimonnomid and SpacedInvader and Dr. Walther and KillAshley in addition to NathanKell.
+
 Includes biomes by Felger and grayduster and KellanHiggins and KillAshley.
+
 Some planetary imagery is derived from work by Steve Albers and NASA / Jet Propulsion Laboratory, and some from the Celestia Motherlode (itself in the main sourced from JPL). Used by permission of the licenses for non-commercial release.
 
 ALSO INCLUDED:

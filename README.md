@@ -55,4 +55,12 @@ FUTURE PLANS:
 * New Biomes for all of Saturn's moons
 
 CHANGELOG
-1.0 Initial Release
+
+1.2 Gravity Fixes - June 24, 2016
+* Fixed a MAJOR bug where gravity parameters were calculating wrong.
+
+1.1 Small Update - June 23, 2016
+* Updated Kopernicus to newest version
+* Provided new Custom Asteroids config file
+
+1.0 Initial Release - June 23, 2016

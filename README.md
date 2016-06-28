@@ -56,6 +56,9 @@ FUTURE PLANS:
 
 CHANGELOG
 
+1.3 RemoteTech Configs - June 27, 2016
+* Updated all RemoteTech distances and antennas
+
 1.2 Gravity Fixes - June 24, 2016
 * Fixed a MAJOR bug where gravity parameters were calculating wrong.
 

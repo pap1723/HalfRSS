@@ -55,6 +55,12 @@ FUTURE PLANS:
 * New Biomes for all of Saturn's moons
 
 CHANGELOG
+1.5 Planet Fix - June 29, 2016 **DELETE your HalfRSS folder from GameData before installing**
+* Fixed an issue where Oberon looked like a porcupine
+* Fixed an issue where Europa, Miranda, Ariel and Umbriel were not appearing
+
+1.4 Atmosphere Visuals - June 28, 2016
+* Fixed the visual atmosphere settings
 
 1.3 RemoteTech Configs - June 27, 2016
 * Updated all RemoteTech distances and antennas

@@ -55,6 +55,9 @@ FUTURE PLANS:
 * New Biomes for all of Saturn's moons
 
 CHANGELOG
+1.5.1 - June 30, 2016 *HOTFIX*
+* I've learned that it helps to actually upload the file you are changing
+
 1.5 Planet Fix - June 29, 2016 **DELETE your HalfRSS folder from GameData before installing**
 * Fixed an issue where Oberon looked like a porcupine
 * Fixed an issue where Europa, Miranda, Ariel and Umbriel were not appearing

@@ -55,6 +55,11 @@ FUTURE PLANS:
 * New Biomes for all of Saturn's moons
 
 CHANGELOG
+
+1.6
+* Updated Kopernicus and ModuleFlightIntegrator to newest version
+* Changed Time Warps to be same as RSS (much faster than stock)
+
 1.5.1 - June 30, 2016 *HOTFIX*
 * I've learned that it helps to actually upload the file you are changing
 

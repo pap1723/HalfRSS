@@ -3,6 +3,29 @@
 	"URL":"http://ksp-avc.cybutek.net/version.php?id=330",
 	"DOWNLOAD":"http://spacedock.info/mod/787/Half%20Size%20RSS",
 	"CHANGE_LOG_URL":"http://spacedock.info/mod/787/Half%20Size%20RSS",
-	"VERSION":{"MAJOR":1,"MINOR":6,"PATCH":0,"BUILD":0},
-	"KSP_VERSION":{"MAJOR":1,"MINOR":1,"PATCH":3}
+	"VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":7,
+		"PATCH":0,
+		"BUILD":0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":2,
+		"PATCH":2
+	},
+	"KSP_VERSION_MIN":
+	{
+		"MAJOR":1,
+		"MINOR":2,
+		"PATCH":0
+	},
+	"KSP_VERSION_MAX":
+	{
+		"MAJOR":1,
+		"MINOR":2,
+		"PATCH":99
+	}
 }

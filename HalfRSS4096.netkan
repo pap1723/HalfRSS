@@ -1,0 +1,22 @@
+{
+    "spec_version"		: 1,
+	"identifier"		: "HalfRSS-Textures4096",
+	"$kref"				: "#/ckan/github/Pap1723/HalfRSS-Textures/asset_match/HalfRSS-Textures4096",
+    "name"				: "Half Size RSS Textures - 4096 x 2048",
+    "abstract"			: "Textures for Half Size RSS",
+	"ksp_version_min"	: "1.0.0",
+	"ksp_version_max"	: "1.1.9",
+	"release_status"	: "stable",
+    "license"			: "CC-BY-NC-SA",
+    "resources" 		: { "repository"   	: "https://github.com/pap1723/HalfRSS-Textures" },
+	"provides"			: [ "HalfRSS-Textures" ],
+    "conflicts" : [
+        { "name" : "HalfRSS-Textures" }
+    ],
+	"install"	 : [
+		{
+			"find"			: "RSS-Textures",
+			"install_to"	: "GameData"
+		}
+	]
+}

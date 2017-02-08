@@ -56,6 +56,11 @@ FUTURE PLANS:
 
 CHANGELOG
 
+1.7 - February 8, 2017
+* Updated to work with 1.2.2
+* Updated Kopernicus and ModuleFlightIntegrator to newest version
+* Thanks to the Real Solar System mod developers for their work!
+
 1.6
 * Updated Kopernicus and ModuleFlightIntegrator to newest version
 * Changed Time Warps to be same as RSS (much faster than stock)

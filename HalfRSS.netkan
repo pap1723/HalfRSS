@@ -1,0 +1,28 @@
+{
+    "spec_version"   : 1,
+	"identifier"     : "HalfRSS",
+	"$kref"          : "#/ckan/spacedock/787",
+    "name"           : "Half Size Real Solar System (x 5 Stock Scale)",
+    "abstract"       : "Creates our Real Solar System in Half Size, or 5 x Stock Scale",
+	"ksp_version"	 : "1.1.3",
+    "license"        : "CC-BY-NC-SA",
+    "resources" : {
+        "homepage"     : "http://forum.kerbalspaceprogram.com/index.php?/topic/142336-113-half-size-rss-v15/",
+        "repository"   : "https://github.com/pap1723/HalfRSS"
+    },
+    "depends" : [
+        { "name" : "ModuleManager" },
+		{ "name" : "Kopernicus" },
+		{ "name" : "HalfRSS-Textures" }
+    ],
+    "recommends" : [
+        { "name" : "UnmannedBeforeManned" },
+		{ "name" : "HistoricalProgression" }
+    ],
+	"install"	 : [
+		{
+			"find"			: "HalfRSS",
+			"install_to"	: "GameData"
+		}
+	]
+}

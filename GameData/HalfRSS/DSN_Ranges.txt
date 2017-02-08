@@ -1,0 +1,15 @@
+@PART[*]:HAS[@MODULE[ModuleDataTransmitter]]
+{
+      @MODULE[ModuleDataTransmitter]
+      {
+            @antennaPower *= 10
+      }
+}
+
+@CUSTOMBARNKIT
+{   
+      @TRACKING
+      {
+            @DSNRange = 2500000000, 250000000000, 25000000000000
+      }
+}
